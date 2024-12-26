@@ -11,3 +11,5 @@ console.log(count)
 count++
 
 console.log(count)
+
+console.log("good night")
